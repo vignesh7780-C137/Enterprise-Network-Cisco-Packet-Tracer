@@ -99,6 +99,7 @@ Cisco Packet Tracer · Cisco IOS · VLAN · 802.1Q · STP · Inter-VLAN Routing 
 ## Repository Structure
 
 ```text
+
 Enterprise-Network-Cisco-Packet-Tracer/
 ├── Enterprise_MNC_Network_Project.pkt
 ├── README.md
@@ -112,5 +113,4 @@ Enterprise-Network-Cisco-Packet-Tracer/
     ├── hr-connectivity.jpg
     ├── guest-security.jpg
     └── edge-acl.jpg
-
 

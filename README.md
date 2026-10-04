@@ -104,6 +104,7 @@ Enterprise-Network-Cisco-Packet-Tracer/
     ├── hr-connectivity.jpg
     ├── guest-security.jpg
     └── edge-acl.jpg
+
 Future Development — V2
 
 V1 establishes the baseline enterprise architecture. V2 will revisit important design areas in greater depth, strengthen redundancy and security, further customize the topology, and add advanced enterprise capabilities where practical.

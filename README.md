@@ -84,6 +84,14 @@ Guest clients can reach their own gateway and the simulated external network whi
 - OSPF adjacencies reached `FULL` state.
 - HSRP was configured for first-hop redundancy.
 
+Future Development — V2
+
+V1 establishes the baseline enterprise architecture. V2 will revisit important design areas in greater depth, strengthen redundancy and security, further customize the topology, and add advanced enterprise capabilities where practical.
+
+Skills Demonstrated
+
+Cisco Packet Tracer · Cisco IOS · VLAN · 802.1Q · STP · Inter-VLAN Routing · OSPF · HSRP · DHCP · NAT/PAT · ACL
+
 ## Project File
 
 [Download the Cisco Packet Tracer project](Enterprise_MNC_Network_Project.pkt)
@@ -105,10 +113,4 @@ Enterprise-Network-Cisco-Packet-Tracer/
     ├── guest-security.jpg
     └── edge-acl.jpg
 
-Future Development — V2
 
-V1 establishes the baseline enterprise architecture. V2 will revisit important design areas in greater depth, strengthen redundancy and security, further customize the topology, and add advanced enterprise capabilities where practical.
-
-Skills Demonstrated
-
-Cisco Packet Tracer · Cisco IOS · VLAN · 802.1Q · STP · Inter-VLAN Routing · OSPF · HSRP · DHCP · NAT/PAT · ACL
